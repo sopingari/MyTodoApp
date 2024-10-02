@@ -1,4 +1,4 @@
 # TODO App
 Hello! This is a demo app for the lab in COSC 381!
 Trying to create a conflict from github. 
-Creating conflict from the local branch.
+Creating conflict from the local branch
